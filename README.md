@@ -1,2 +1,2 @@
-# hello world
-Testing out Branching
+# hello-world
+First Steps with Git
